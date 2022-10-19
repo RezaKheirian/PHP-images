@@ -1,6 +1,6 @@
 # PHP-images
 
-- image resize on fly
+- resize image on fly
 - arguments:
     - i: image path in defined path
     - w: output image width
