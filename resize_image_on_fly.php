@@ -9,7 +9,7 @@
 */
 
 define( 'MEDIAS_DIR', 'medias/'  );
-define( 'EMPTY_IMG', 'empty.png'  );
+define( 'EMPTY_IMG', 'empty-image.png'  );
 
 /*
     resizeImage function:
