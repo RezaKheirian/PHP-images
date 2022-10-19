@@ -1,7 +1,7 @@
 <?php
 /*
 - image resize on fly
-- arguments:
+- params:
     - i: image path in defined path
     - w: output image width
     - h: output image height
